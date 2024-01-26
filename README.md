@@ -10,7 +10,7 @@
 <p align="center">
  
 
-<img width="800pt" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRATBEviVecffeQ8lwplDsdfhgxcUDZUaYaA&usqp=CAU" />
+<!-- <img width="800pt" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRATBEviVecffeQ8lwplDsdfhgxcUDZUaYaA&usqp=CAU" /> -->
   </p align="center">
 
 <div align="center">
